@@ -44,7 +44,7 @@ function displayForumfeed(result) {
     }
 }
 
-function displaySvnFeed(result) {
+function displayGitFeed(result) {
     if (!result.error) {
         var rssOutput = "";
         var theFeeds = result.feed.entries;
@@ -85,8 +85,8 @@ window.onload = function() {
     forumfeedpointer.setNumEntries(5);
     forumfeedpointer.load(displayForumfeed);
 
-    var sourcefeedpointer = new google.feeds.Feed("http://sourceforge.net/p/processhacker/code/feed");
+    var sourcefeedpointer = new google.feeds.Feed("https://github.com/processhacker2/processhacker2/commits/master.atom");
     sourcefeedpointer.setNumEntries(5);
-    sourcefeedpointer.load(displaySvnFeed);
+    sourcefeedpointer.load(displayGitFeed);
 
 };

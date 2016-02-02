@@ -131,7 +131,7 @@
             <div class="yui-g">
                 <div class="yui-u">
                     <div class="portlet">
-                        <p><strong>SVN Activity</strong></p>
+                        <p><strong>Git Activity</strong></p>
                         <div id="source_feed_div"></div>
                     </div>
                 </div>
