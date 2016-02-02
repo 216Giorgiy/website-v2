@@ -260,6 +260,10 @@ ul {
     text-align: left;
 }
 
+.build-number {
+    color: #999;
+}
+
 .normal {
     text-align: left;
 }

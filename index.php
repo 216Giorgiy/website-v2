@@ -33,12 +33,12 @@
                     <div class="portlet downloads">
                         <div class="version">
                             <ul>
-                                <li>Process Hacker <?php echo $LATEST_PH_VERSION ?></li>
+                                <li>Process Hacker <?php echo $LATEST_PH_VERSION ?><span class="build-number">.<?php echo $LATEST_PH_BUILD ?></span></li>
                                 <li>Released <?php echo $LATEST_PH_RELEASE_DATE ?></li>
                             </ul>
                         </div>
                         <ul>
-                            <li><a href="downloads.php">Download v<?php echo $LATEST_PH_VERSION." (r".$LATEST_PH_BUILD.")" ?></a></li>
+                            <li><a href="downloads.php">Download v<?php echo $LATEST_PH_VERSION ?></a></li>
                         </ul>
                         <div class="center donate">
                             <a href="http://sourceforge.net/project/project_donations.php?group_id=242527">
