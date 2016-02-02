@@ -73,7 +73,7 @@ if ($which_server == 1) {
             </div>-->
 
             <div class="main-section-2">
-                <p>The latest stable version of Process Hacker is <strong><?php echo $LATEST_PH_VERSION." (r".$LATEST_PH_BUILD.")" ?></strong>.
+                <p>The latest stable version of Process Hacker is <strong><?php echo $LATEST_PH_VERSION.".".$LATEST_PH_BUILD ?></strong>.
 
                 <!-- Ad Unit 4 - DO NOT CHANGE THIS CODE -->
                 <div style="clear: both; margin-left: auto; margin-right: auto; margin-bottom: 20px; width: 728px; height: 90px;">
