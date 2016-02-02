@@ -8,13 +8,19 @@ function sf_link($type)
     return "http://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-$LATEST_PH_VERSION-$type/download?use_mirror=autoselect";
 }
 
+function github_link($type)
+{
+    global $LATEST_PH_VERSION;
+    return "https://github.com/processhacker2/processhacker2/releases/download/v$LATEST_PH_VERSION/processhacker-$LATEST_PH_VERSION-$type";
+}
+
 function wj32_link($type)
 {
     global $LATEST_PH_VERSION;
-    return "http://wj32.org/processhacker/rel/processhacker-$LATEST_PH_VERSION-$type";
+    return "https://wj32.org/processhacker/rel/processhacker-$LATEST_PH_VERSION-$type";
 }
 
-$load_number = 1;
+$load_number = 8;
 $which_server = rand(1, $load_number);
 $show_mirror = true;
 
@@ -24,8 +30,8 @@ if ($which_server == 1) {
     $link_bin = wj32_link("bin.zip");
     $link_src = wj32_link("src.zip");
 } else {
-    $link_setup = sf_link("setup.exe");
-    $link_bin = sf_link("bin.zip");
+    $link_setup = github_link("setup.exe");
+    $link_bin = github_link("bin.zip");
     $link_src = sf_link("src.zip");
 }
 ?>
