@@ -25,14 +25,6 @@
                     <div class="yui-u first">
                         <div class="faq">
                             <p>Process Hacker was started in 2008 as an open source alternative to programs such as Task Manager and Process Explorer.</p>
-                            <ul>
-                                <li class="about-li"><strong>Registered:</strong> 16-10-2008</li>
-                                <li class="about-li"><strong>Licence:</strong> GNU General Public License version 3.0
-                                        <a href="http://svn.code.sf.net/p/processhacker/code/2.x/trunk/LICENSE.txt">GPLv3</a></li>
-                                <li class="about-li"><strong>Language:</strong> English</li>
-                                <li class="about-li"><strong>Intended Audience:</strong> Advanced End Users, Developers</li>
-                                <li class="about-li"><strong>Programming Language:</strong> C, C#</li>
-                            </ul>
                         </div>
                     </div>
 
@@ -59,9 +51,6 @@
                         <!-- <li><a href="http://processhacker.sourceforge.net/forums/memberlist.php?mode=email&amp;u=2">Send Message</a></li> -->
                     </ul>
                     <img class="openhub-kudos" src="http://www.openhub.net/accounts/47453/widgets/account_rank.gif" alt="Ohloh kudos" width="32" height="24">
-                    <a href="http://www.openhub.net/p/processhacker/contributors/1415904688650589" target="_blank">
-                        <img class="ohloh-commits" src="http://www.openhub.net/p/processhacker/contributors/144925/commits_spark.png" alt="wj32 commit history" width="182" height="32">
-                    </a>
                 </div>
 
                 <div class="dev">
