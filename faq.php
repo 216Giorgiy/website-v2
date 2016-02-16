@@ -83,8 +83,11 @@
                         Download: <a href="https://dev.windows.com/en-us/downloads/windows-10-sdk">Windows 10 SDK</a>
                     </dd>
 
-                    <dt>Anti-cheat software reports Process Hacker as a game cheating tool!</dt>
-                    <dd>Unfortunately there is nothing much that can be done about this. Just avoid double-clicking on memory regions, injecting DLLs or accessing handles of game processes.</dd>
+                    <dt>Is Process Hacker compatible with anti-cheat software such as VAC and BattlEye?</dt>
+                    <dd>
+						Yes, but you may be required to close Process Hacker or disable KProcessHacker while playing the game.<br>
+						<strong>WARNING: viewing/editing memory regions of, or injecting DLLs into game processes may result in VAC bans.</strong>
+					</dd>
 
                     <dt>How do I report issues with anti-cheat software?</dt>
                     <dd>Contact <a href="about.php">dmex</a>.</dd>
