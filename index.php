@@ -20,8 +20,10 @@
                 </div>
             </nav>
 
-            <p class="headline main-headline">A <strong>free</strong>, powerful, multi-purpose tool that helps you <strong>monitor system resources</strong>,<br>
-            <strong>debug software</strong> and <strong>detect malware</strong>.</p>
+            <p class="headline main-headline">
+              A <strong>free</strong>, powerful, multi-purpose tool that helps you<br>
+              <strong>monitor system resources</strong>, <strong>debug software</strong> and <strong>detect malware</strong>.
+            </p>
 
             <div class="pre-section">
                 <!-- Ad Unit 3 - DO NOT CHANGE THIS CODE -->
