@@ -20,7 +20,7 @@ function wj32_link($type)
     return "https://wj32.org/processhacker/rel/processhacker-$LATEST_PH_VERSION-$type";
 }
 
-$load_number = 8;
+$load_number = 6;
 $which_server = rand(1, $load_number);
 $show_mirror = true;
 
@@ -99,7 +99,7 @@ if ($which_server == 1) {
 
                 <p><strong>System requirements:</strong></p>
                 <ul>
-                    <li>Windows XP (SP2)/Vista/7/8, 32-bit or 64-bit.</li>
+                    <li>Windows XP (SP2)/Vista/7/8/10, 32-bit or 64-bit.</li>
                     <li>Intel Itanium platforms are not supported.</li>
                 </ul>
                 <p>If you like this software, please

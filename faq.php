@@ -28,11 +28,11 @@
                     <div class="portlet">
                         <h2 class="center">Quick Links</h2>
                         <ul class="involvement">
-                            <li><a href="http://sourceforge.net/projects/processhacker/">SourceForge project page</a></li>
-                            <li><a href="http://wj32.org/processhacker/forums/viewforum.php?f=5">Ask a question</a></li>
-                            <li><a href="http://wj32.org/processhacker/forums/viewforum.php?f=24">Report a bug</a></li>
-                            <li><a href="http://sourceforge.net/p/processhacker/code/">Browse source code</a></li>
+                            <li><a href="https://github.com/processhacker2/processhacker2">Source code on GitHub</a></li>
+                            <li><a href="https://wj32.org/processhacker/forums/viewforum.php?f=5">Ask a question</a></li>
+                            <li><a href="https://wj32.org/processhacker/forums/viewforum.php?f=24">Report a bug</a></li>
                             <li><a href="doc/">Source code documentation</a></li>
+                            <li><a href="http://sourceforge.net/projects/processhacker/">SourceForge project page</a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,12 +45,12 @@
 
                     <dt>Is Process Hacker a portable application?</dt>
                     <dd>
-                        Yes. In the same directory as <code>ProcessHacker.exe</code>, create a file named <code>ProcessHacker.exe.settings.xml</code>,
-                        settings will then be automatically saved here.
+                        Yes. In the same directory as <code>ProcessHacker.exe</code>, create a file named <code>ProcessHacker.exe.settings.xml</code>.
+                        Settings will be automatically saved there.
                     </dd>
 
                     <dt>"Process Hacker"? Is this a dangerous "hacking" tool?</dt>
-                    <dd>No. Please read about the <a href="http://catb.org/~esr/faqs/hacker-howto.html#what_is">correct definition of "hacker"</a>.</dd>
+                    <dd>No. Please read about the <a href="http://catb.org/~esr/faqs/hacker-howto.html#what_is">other definition of "hacker"</a>.</dd>
 
                     <dt>Process Hacker can kill my anti-virus software! Is this a bug in the anti-virus software?</dt>
                     <dd>No. Please do not report these incidents as bugs because you will be wasting their time.</dd>
@@ -85,9 +85,9 @@
 
                     <dt>Is Process Hacker compatible with anti-cheat software such as VAC and BattlEye?</dt>
                     <dd>
-						Yes, but you may be required to close Process Hacker or disable KProcessHacker while playing the game.<br>
-						<strong>WARNING: viewing/editing memory regions of, or injecting DLLs into game processes may result in VAC bans.</strong>
-					</dd>
+                        Yes, but you may be required to close Process Hacker or disable KProcessHacker while playing the game.<br>
+                        <strong>WARNING: viewing/editing memory regions of, or injecting DLLs into game processes may result in VAC bans.</strong>
+                    </dd>
 
                     <dt>How do I report issues with anti-cheat software?</dt>
                     <dd>Contact <a href="about.php">dmex</a>.</dd>

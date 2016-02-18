@@ -53,8 +53,8 @@
                         <h2 class="center">Quick Links</h2>
                         <ul class="involvement">
                             <li><a href="https://github.com/processhacker2/processhacker2">Source code on GitHub</a></li>
-                            <li><a href="forums/viewforum.php?f=5">Ask a question</a></li>
-                            <li><a href="forums/viewforum.php?f=24">Report a bug</a></li>
+                            <li><a href="https://wj32.org/processhacker/forums/viewforum.php?f=5">Ask a question</a></li>
+                            <li><a href="https://wj32.org/processhacker/forums/viewforum.php?f=24">Report a bug</a></li>
                             <li><a href="doc/">Source code documentation</a></li>
                             <li><a href="http://sourceforge.net/projects/processhacker/">SourceForge project page</a></li>
                         </ul>
