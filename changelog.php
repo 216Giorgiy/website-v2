@@ -21,8 +21,7 @@
             </nav>
 
             <div class="summary">
-                <p>This is the changelog from Process Hacker's SVN repository. As such it may contain information about unreleased versions of Process Hacker.</p>
-                <iframe class="changelog" src="http://svn.code.sf.net/p/processhacker/code/2.x/trunk/CHANGELOG.txt"></iframe>
+                <p>Please view the latest change log here: <a href="https://github.com/processhacker2/processhacker2/blob/master/CHANGELOG.txt">CHANGELOG.txt on GitHub</a>.</p>
             </div>
         </div>
     </div>
