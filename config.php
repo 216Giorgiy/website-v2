@@ -17,5 +17,6 @@ $LATEST_PH_SOURCE_SHA1 = "eb8b2e45335fd15e9b5e4c8093b6a383e4df115d";
 
 $LATEST_PH_RELEASE_NEWS = "https://wj32.org/processhacker/forums/viewtopic.php?f=1&t=2255";
 
-$LATEST_PH_RELEASE_URL = "http://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-".$LATEST_PH_VERSION."-setup.exe/download?use_mirror=autoselect";
+//$LATEST_PH_RELEASE_URL = "http://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-".$LATEST_PH_VERSION."-setup.exe/download?use_mirror=autoselect";
+$LATEST_PH_RELEASE_URL = "https://github.com/processhacker2/processhacker2/releases/download/v".$LATEST_PH_VERSION."/processhacker-".$LATEST_PH_VERSION."-setup.exe";
 ?>
